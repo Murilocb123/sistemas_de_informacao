@@ -1,0 +1,6 @@
+.column-bordered-table td, table {
+    border: 1px solid palevioletred;
+    /*border-right: 1px solid palevioletred;
+    border-top: 1px solid palevioletred;
+    border-bottom: 1px solid palevioletred;*/
+}
