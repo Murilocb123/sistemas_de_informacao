@@ -13,8 +13,8 @@
 ```
 - Utilização do mesmo arquivo CSS para diversos arquivos HTML.
 - Formas de utilização do css:
-    - CSS definido em tags(Mais prioritarios) - **EVITAR USAR NÃO É UM BOM HABITO**;
-    - CSS definido dentdo do cabecalho do documento;
+    - CSS definido em tags(Mais prioritarios) - **EVITAR USAR NÃO É UM BOM HABITO** - **(inline)**; 
+    - CSS definido dentdo do cabecalho do documento **(INCORPORADO)**;
     - CSS em arquivo externo;
     - Padrão do navegador(Menos prioritario).
 - Comentario:
