@@ -17,12 +17,17 @@
     - CSS definido dentdo do cabecalho do documento;
     - CSS em arquivo externo;
     - Padrão do navegador(Menos prioritario).
+- Comentario:
+```css
+/* Comentario */
+```
+
 ### Sintaxe
 ```css
 seletor {
     propriedade:valor;
 }
 ```
-## Seletores
+### Seletores
 - " . " significa classe, que **pode ser repetida**
 - " # " Significa id, **não pode ser repetido**
