@@ -21,6 +21,9 @@
 ```css
 /* Comentario */
 ```
+- !important (ignora toda a cascata);
+
+
 
 ### Sintaxe
 ```css
