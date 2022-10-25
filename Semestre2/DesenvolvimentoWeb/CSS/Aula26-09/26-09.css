@@ -1,0 +1,25 @@
+body{
+    background-color: #dedede;
+    background-image: url(madeira.jpg);
+}
+/*seletor universal / seleciona todo os elementos html*/
+*{
+    font-family: Arial;
+}
+div{
+    height: 200px;
+    width: 50%;
+    border: 1px solid black;
+}
+p{
+    letter-spacing: 6px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+div#um{
+    background-color: yellow;
+    position: fixed;
+}

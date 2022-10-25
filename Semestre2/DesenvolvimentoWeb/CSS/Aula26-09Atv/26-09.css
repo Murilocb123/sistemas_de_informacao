@@ -1,0 +1,53 @@
+@font-face {
+    font-family: tron;
+    src: url(BigParty4Blue-2575.woff);
+}
+
+*{
+    font-family: tron;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 45px;
+}
+
+@media only screen and (min-width:600px){
+    article{
+        margin-left: -3.1px;
+        display: inline-block;
+        width: 50%;
+    }
+
+}
+
+@media only screen and (min-width:900px){
+    article{
+        margin-top: 2px;
+        margin-bottom: 2px;
+        margin-left: -3.1px;
+        display: inline-block;
+        width: 25%;
+    }
+}
+
+header{
+    background-color: lightblue;
+}
+nav{
+
+    background-color: lightblue;
+}
+#article1{
+    background-color: orangered;
+}
+#article2{
+    background-color: blue;
+}
+#article3{
+    background-color: yellow;
+}
+#article4{
+    background-color: blueviolet;
+}
+footer{
+    background-color: lightblue;
+}
