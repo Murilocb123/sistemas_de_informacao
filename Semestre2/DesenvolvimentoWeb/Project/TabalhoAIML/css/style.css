@@ -1,0 +1,45 @@
+body{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+nav{
+    height: 70px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: -10px;
+    background-color: cadetblue;
+} 
+nav ul{
+    list-style: none;
+    display: list-item;
+    
+}
+nav ul li{
+    float:left; 
+    display: block;
+    position: static;
+    margin-left: 200px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+
+#blockLogo{
+    width: 100px;
+    left:50%;
+    margin-left: -100px;
+    /*A propriedade 'Transform' CSS permite girar, dimensionar, inclinar ou traduzir um elemento. 
+    Ele modifica o espaço de coordenadas do modelo de formatação visual CSS*/
+    transform: translateY(-20px);
+    margin-right: auto; 
+    display: block; /*Define a tag como um bloco*/
+    position: fixed;
+
+}
+#blockLogo img{
+    width: 75px;
+    /* border:solid black; */
+    border-radius: 90%;
+    
+    background-image: radial-gradient(rgba(132, 0, 255, 0.26), transparent, transparent);
+}
