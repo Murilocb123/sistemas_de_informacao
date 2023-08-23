@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão 14</title>
+    <style>
+        /*tags gerais and navigation*/
+        @font-face {
+            font-family: 'Inter Regular';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Inter Regular'), url('/fonts/Inter.woff') format('woff');
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: Inter Regular, sans-serif;
+            font-size: 14px;
+        }
+
+        .navigation {
+            background-color: #383838;
+            color: #fff;
+            text-align: center;
+            display: flex;
+            /*Para colocar os itens da nav um do lado do outro */
+            justify-content: space-around;
+            height: 8vh;
+            /* vh ou viewport height(traduzido: altura da janela de visualização) é uma unidade resposiva que se adapta a altura da janela de visualização do usuario */
+            position: fixed;
+            width: 100%;
+        }
+
+        .nav-itens {
+            list-style: none;
+            display: flex;
+        }
+
+        .nav-itens li {
+            letter-spacing: 3px;
+            margin-left: 10px;
+            color: #fff;
+            display: block;
+            margin-top: auto;
+            margin-bottom: auto;
+
+        }
+        .nav-itens li a{
+            color: #fff;
+            text-align: center;
+
+        }
+        a {
+            text-decoration: none;
+            transition: 0.3s;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+        <a href="index.html"><img id="logo-nav" src="img/logo.png" alt="Imagem" class="blockLogo"></a>
+        <div class="navigation">
+            <ul class="nav-itens">
+                <li>|</li>
+                <li><a href="../../">Voltar</a></li>
+                <li>|</li>
+                <li><a href="../../">Voltar</a></li>
+                <li>|</li>
+                <li><a href="../../">Voltar</a></li>
+                <li>|</li>
+                <li><a href="../../">Voltar</a></li>
+                <li>|</li>
+                <li><a href="../../">Voltar</a></li>
+                <li>|</li>
+            </ul>
+        </div>
+    </nav>
+
+
+</body>
+
+</html>

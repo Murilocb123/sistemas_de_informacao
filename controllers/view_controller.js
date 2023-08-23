@@ -1,5 +1,5 @@
 
-import components from './components/config.js';
+import components from '../components/config.js';
 
 /**
  * controller responsavel por carregar os componentes em tela
