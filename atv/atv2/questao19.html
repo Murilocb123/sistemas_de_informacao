@@ -21,22 +21,31 @@
             font-size: 14px;
         }
 
+        .content {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+
         .navigation {
-            background-color: #383838;
-            color: #fff;
-            text-align: center;
-            display: flex;
-            /*Para colocar os itens da nav um do lado do outro */
-            justify-content: space-around;
-            height: 8vh;
+
             /* vh ou viewport height(traduzido: altura da janela de visualização) é uma unidade resposiva que se adapta a altura da janela de visualização do usuario */
             position: fixed;
             width: 100%;
+            margin: 0;
+            z-index: 1;
+            background-color: #cdcdcd;
         }
 
         .nav-itens {
+            color: #fff;
             list-style: none;
             display: flex;
+            /*Para colocar os itens da nav um do lado do outro */
+            justify-content: space-around;
+            background-color: #383838;
+            height: 35px;
+            padding-left: 20%;
+            padding-right: 20%;
         }
 
         .nav-itens li {
@@ -48,14 +57,80 @@
             margin-bottom: auto;
 
         }
-        .nav-itens li a{
+
+        .nav-itens li a {
             color: #fff;
             text-align: center;
 
         }
+
         a {
             text-decoration: none;
             transition: 0.3s;
+        }
+
+        .blockCenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 50%;
+        }
+
+        #logo-nav {
+            margin-top: 1.0vh;
+            margin-bottom: 1.0vh;
+            background-color: #cdcdcd;
+        }
+
+        header {
+            height: 60vh;
+
+
+        }
+
+        .text-center-image {
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+
+        .header_image {
+            margin-top: 65px;
+            width: 100%;
+            vertical-align: middle;
+            box-sizing: border-box;
+            z-index: -1;
+            height: 300px;
+            /*para deixar parte da imagem transparente*/
+        }
+
+        .text {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .text-block {
+            width: 50%;
+            padding: 5px;
+        }
+
+        .card-list {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            width: 200px;
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #cdcdcd;
+            border-radius: 5px;
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 5px;
         }
     </style>
 </head>
@@ -63,8 +138,8 @@
 <body>
 
     <nav>
-        <a href="index.html"><img id="logo-nav" src="img/logo.png" alt="Imagem" class="blockLogo"></a>
         <div class="navigation">
+            <img id="logo-nav" src="img/logo.png" alt="Imagem" class="blockCenter">
             <ul class="nav-itens">
                 <li>|</li>
                 <li><a href="../../">Voltar</a></li>
@@ -80,8 +155,82 @@
             </ul>
         </div>
     </nav>
+    <header>
+        <div class="text-center-image">
+            <img class="header_image" src="./img/atv19.png" alt="publicidade">
+            <h1 style="position: absolute; bottom: 150px;
+            left: 50%;">PUBLICIDADE</h1>
+        </div>
+    </header>
+    <section>
+        <h1 style="text-align: center;">Titulo</h1>
+        <div class="text">
+            <div class="text-block">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique officia beatae mollitia quaerat
+                    odit.
+                    Corporis maiores labore natus eaque officia
+                    ipsam fugiat optio. Suscipit similique dolore labore rerum ratione hic.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique officia beatae mollitia quaerat
+                    odit.
+                    Corporis maiores labore natus eaque officia
+                    ipsam fugiat optio. Suscipit similique dolore labore rerum ratione hic.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique officia beatae mollitia quaerat
+                    odit.
+                    Corporis maiores labore natus eaque officia
+                    ipsam fugiat optio. Suscipit similique dolore labore rerum ratione hic.
+                </p>
+            </div>
+            <div class="text-block">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique officia beatae mollitia quaerat
+                    odit.
+                    Corporis maiores labore natus eaque officia
+                    ipsam fugiat optio. Suscipit similique dolore labore rerum ratione hic.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique officia beatae mollitia quaerat
+                    odit.
+                    Corporis maiores labore natus eaque officia
+                    ipsam fugiat optio. Suscipit similique dolore labore rerum ratione hic.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique officia beatae mollitia quaerat
+                    odit.
+                    Corporis maiores labore natus eaque officia
+                    ipsam fugiat optio. Suscipit similique dolore labore rerum ratione hic.
+                </p>
+            </div>
 
-
+        </div>
+    </section>
+    <section class="card-list">
+        <div class="card">
+            <img src="./img/atv19.png" alt="publicidade">
+            <h5>Conteudo</h5>
+        </div>
+        <div class="card">
+            <img src="./img/atv19.png" alt="publicidade">
+            <h5>Conteudo</h5>
+        </div>
+        <div class="card">
+            <img src="./img/atv19.png" alt="publicidade">
+            <h5>Conteudo</h5>
+        </div>
+    </section>
+    <section style="background-color: #cdcdcd;  position: relative; height: 300px;">
+        <button type="button" style="margin: 0;position: absolute;top: 90%;left: 50%;-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);">Contato</button>
+    </section>
+    <footer style="height: 300px; background-color: #383838; padding: 20px;">
+        <img id="logo-nav" src="img/logo.png" alt="Imagem" class="blockCenter">
+        <ul style="display: flex; justify-content: space-around; list-style: none; color: white;">
+            <li>|</li>
+            <li>Voltar</li>
+            <li>|</li>
+            <li>Voltar</li>
+            <li>|</li>
+            <li>Voltar</li>
+            <li>|</li>
+            <li>Voltar</li>
+            <li>|</li>
+            <li>Voltar</li>
+            <li>|</li>
+        </ul>
+    </footer>
 </body>
 
 </html>
