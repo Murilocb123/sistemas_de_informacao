@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lanb="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML - Laboratório - Formulário Login</title>
+    </head>
+    <body>
+        <!-- LAB: Solicitar input de usuário e senha e enviar para o servidor por meio de um formulário  -->   
+        <h1>Login topzera</h1>      
+        <form action="/login.php?funcao=login" method="post">
+          <fieldset style="width: 30%; font-size: 18px; margin: 0 auto;">
+            <table style="width:100%" border="2px solid white">
+              <tr>
+                <td style="width: 20%;"><label for="campo_login">Login:</label></td>
+                <td><input type="text" id="campo_login" name="campo_login" width="200" maxlenght="200"/></td>
+              </tr>
+              <tr>
+                <td style="width: 20%;"><label for="campo_senha">Senha:</label></td>
+                <td><input type="password" id="campo_senha" name="campo_senha" width="50" maxlenght="15"/></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">
+                  <input type="submit" value="Enviar">
+                </td>
+              </tr>
+            </table>
+          </fieldset>  
+        </form>
+     </body>
+</html>
