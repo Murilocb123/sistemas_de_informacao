@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\migrations\\20240309003818_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\migrations\\20240309003818_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\migrations\\imobcontrolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\migrations\\imobcontrolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\imobcontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\imobcontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\data\\imobcontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\data\\imobcontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\imobcontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\imobcontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|d:\\users\\muril\\documents\\repository\\unidavi\\sistemas_de_informacao\\semestre5\\poo\\aula 2\\imobcontrol\\imobcontrol\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33EE8A7-2530-4804-9118-380C00937AD5}|ImobControl\\ImobControl.csproj|solutionrelative:imobcontrol\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Controllers\\EstadoController.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "ImobControl\\Controllers\\EstadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:51:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImobControlContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Migrations\\ImobControlContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Migrations\\ImobControlContextModelSnapshot.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Migrations\\ImobControlContextModelSnapshot.cs",
+              "RelativeToolTip": "ImobControl\\Migrations\\ImobControlContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:41:07.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240309003818_Inicial.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Migrations\\20240309003818_Inicial.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Migrations\\20240309003818_Inicial.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Migrations\\20240309003818_Inicial.cs",
+              "RelativeToolTip": "ImobControl\\Migrations\\20240309003818_Inicial.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:38:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Program.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Program.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Program.cs",
+              "RelativeToolTip": "ImobControl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:02:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ImobControl\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\appsettings.Development.json",
+              "RelativeToolTip": "ImobControl\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T23:48:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\appsettings.json",
+              "RelativeDocumentMoniker": "ImobControl\\appsettings.json",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\appsettings.json",
+              "RelativeToolTip": "ImobControl\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T23:48:11.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImobControlContext.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Data\\ImobControlContext.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Data\\ImobControlContext.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Data\\ImobControlContext.cs",
+              "RelativeToolTip": "ImobControl\\Data\\ImobControlContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:32:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImobControl",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\ImobControl.csproj",
+              "RelativeDocumentMoniker": "ImobControl\\ImobControl.csproj",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\ImobControl.csproj",
+              "RelativeToolTip": "ImobControl\\ImobControl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T22:30:13.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ImobControl\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:29:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImobControl\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ImobControl\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T22:26:35.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ImobControl\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:26:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "ImobControl\\Models\\Estado.cs",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\Models\\Estado.cs",
+              "RelativeToolTip": "ImobControl\\Models\\Estado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:28:22.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImobControl.csproj",
+              "DocumentMoniker": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\ImobControl.csproj",
+              "RelativeDocumentMoniker": "ImobControl\\ImobControl.csproj",
+              "ToolTip": "D:\\Users\\muril\\Documents\\repository\\unidavi\\sistemas_de_informacao\\Semestre5\\POO\\aula 2\\ImobControl\\ImobControl\\ImobControl.csproj",
+              "RelativeToolTip": "ImobControl\\ImobControl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T23:13:28.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
