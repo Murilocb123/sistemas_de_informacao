@@ -73,7 +73,7 @@ namespace ImobControl.Controllers
                 return NotFound();
             }
 
-            var estado = await _context.Estado.FindAsync(id);
+            var estado = await _context.Estado.Where(x=> x.Nome.Contains(id)).ToListAsync();
             if (estado == null)
             {
                 return NotFound();

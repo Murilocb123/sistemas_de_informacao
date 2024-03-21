@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImobControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7cf1a64f062672c7946af6eb17678f222185d90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ec01cca58fc4ab17d5686b1b04070f96dfe371")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImobControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImobControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

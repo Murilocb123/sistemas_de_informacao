@@ -8,5 +8,6 @@ namespace ImobControl.Data
         public ImobControlContext(DbContextOptions<ImobControlContext> options) : base(options) { } 
 
         public DbSet<Estado> Estado { get; set; }
+        public DbSet<Cidade> Cidade { get; set; }
     }
 }
